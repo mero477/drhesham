@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://drhesham-lilac.vercel.app/sitemap.xml
